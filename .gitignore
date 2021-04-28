@@ -1,0 +1,13 @@
+.Rhistory
+.DS_Store
+._*
+*.tex
+*.pdf
+*.bib
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*synctex.gz
+/3-manuscript/correspondence/*

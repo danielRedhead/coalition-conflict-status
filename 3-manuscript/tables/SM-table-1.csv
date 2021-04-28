@@ -1,0 +1,7 @@
+"variable","n","mean","sd","median","range"
+"Village 1 Status 2009",113,0.42,0.23,0.39,"0-1"
+"Village 1 Status 2014",113,0.44,0.23,0.43,"0-1"
+"Village 2 Status",89,0.42,0.2,0.38,"0-1"
+"Village 1 Formidability 2009",113,0,12.46,0.45,"-32.39-42.89"
+"Village 1 Formidability 2014",113,0,13.75,0.3,"-38.83-48.83"
+"Village 2 Formidability",89,0,12.34,-0.28,"-20.82-37.45"

@@ -1,6 +1,6 @@
 # coalition-conflict-status
 
-Data, code and manuscript for "Coalitions & conflict: A longitudinal analysis of male politics", published in Evolutionary Human Sciences
+Data, code and manuscript for "Coalitions & conflict: A longitudinal analysis of male politics", published in Evolutionary Human Sciences DOI: 10.1017/ehs.2021.26/
 ----------------------------
 
 # Requirements for analyses:

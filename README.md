@@ -50,7 +50,13 @@ Please note that only data from the first two time points are used for varying c
 
 Please also note that the detailed individual-level conflict data used to create Figure 1 are not freely available due to the sensitivity of the data.
 
-When the project folder is the working directory, the longitudinal analysis may run itself (assuming that you have installed all of the dependencies) by calling
+When the project folder is the working directory, you may reproduce the data cleaning and standardization process by calling
+
+```
+source('./scripts/1-data-cleaning.R')
+```
+
+The longitudinal analysis may run itself (assuming that you have installed all of the dependencies) by calling
 
 ```
 source('./scripts/2-village1-analyses.R')

@@ -87,7 +87,7 @@ To allow for reproduction of the figures and tables in the manuscript, I have in
 There is code to produce figure 1 (but the data is not available). I have commented out this section so as to allow the script to run (once all analyses are complete) in its entirety by calling
 
 ```
-source('3-descriptives-plots.R')
+source('./scripts/3-descriptives-plots.R')
 ```
 
 I advise to run the script in blocks once the analyses have finished running. I include the code for figure 1 in the hope that it will be useful for anyone who wishes to adapt the code to produce a similar figure for their own projects.
